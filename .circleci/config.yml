@@ -12,7 +12,7 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
           name: install yarn
-          command: npm i -g yarn
+          command: sudo npm i -g yarn
       - run:
           name: install deps
           command: yarn install
