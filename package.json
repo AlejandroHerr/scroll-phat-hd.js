@@ -23,6 +23,9 @@
     "sinon-chai": "^2.14.0"
   },
   "dependencies": {
-    "babel-register": "^6.26.0"
+    "babel-register": "^6.26.0",
+    "bluebird": "^3.5.1",
+    "i2c-bus": "^1.2.5",
+    "p-queue": "^2.3.0"
   }
 }

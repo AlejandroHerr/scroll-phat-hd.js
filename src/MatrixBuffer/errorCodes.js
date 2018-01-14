@@ -1,0 +1,5 @@
+export default {
+  ERROR: 'ERROR',
+  OUT_OF_BOUNDS: 'OUT_OF_BOUNDS',
+  ILLEGAL_POSITION: 'ILLEGAL_POSITION',
+};
